@@ -1,5 +1,5 @@
 """
-src/nlp/stage03_transform_case.py
+src/nlp/stage03_transform_katherine.py
 (EDIT YOUR COPY OF THIS FILE)
 
 Source: validated BeautifulSoup object
@@ -64,16 +64,16 @@ The HTML structure can be complex and inconsistent, and may require careful insp
 The title and abstract are wrapped in tags with descriptor text ("Title:", "Abstract:") that must be removed to get clean values.
 The authors are listed as multiple <a> tags inside a <div>, so we must extract each author separately and join them with commas to avoid double-comma issues.
 The arXiv ID is not directly visible on the page but can be extracted from the canonical link in the HTML head.
-This stage requires careful inspection of the HTML structure and thoughtful handling of edge cases to ensure we extract clean, structured data for analysis.
+This stage requires careful inspection of the HTML structure and thoughtful handling of edge katherines to ensure we extract clean, structured data for analysis.
 
 Use all your resources, creativity, and problem-solving skills to navigate the complexities of web data extraction and transformation.
 
 Notes
 
-Following our process, do NOT edit this _case file directly,
+Following our process, do NOT edit this _katherine file directly,
 keep it as a working example.
 
-In your custom project, copy this _case.py file and
+In your custom project, copy this _katherine.py file and
 append with _yourname.py instead.
 
 Then edit your copied Python file to:
