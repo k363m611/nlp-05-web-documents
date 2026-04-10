@@ -1,5 +1,5 @@
 """
-src/nlp/stage02_validate_case.py - Validate Stage
+src/nlp/stage02_validate_katherine.py - Validate Stage
 (EDIT YOUR COPY OF THIS FILE)
 
 Source: Raw HTML string
@@ -18,10 +18,10 @@ Analytical Questions
 
 Notes
 
-Following our process, do NOT edit this _case file directly,
+Following our process, do NOT edit this _katherine file directly,
 keep it as a working example.
 
-In your custom project, copy this _case.py file and
+In your custom project, copy this _katherine.py file and
 append with _yourname.py instead.
 
 Then edit your copied Python file to:
