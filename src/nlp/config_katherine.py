@@ -1,5 +1,5 @@
 """
-src/nlp/config_case.py - Module 5 Configuration
+src/nlp/config_katherine.py - Module 5 Configuration
 (COPY AND MODIFY THIS FILE - do not edit the original)
 
 Stores configuration values for the web document EVTL pipeline.
@@ -16,10 +16,10 @@ Analytical Questions
 
 Notes
 
-Following our process, do NOT edit this _case file directly,
+Following our process, do NOT edit this _katherine file directly,
 keep it as a working example.
 
-In your custom project,copy this _case.py file and
+In your custom project,copy this _katherine.py file and
 append with _yourname.py instead.
 
 Then edit your copied Python file to change:
@@ -51,7 +51,7 @@ DATA_PATH: Path = ROOT_PATH / "data"
 RAW_PATH: Path = DATA_PATH / "raw"
 PROCESSED_PATH: Path = DATA_PATH / "processed"
 
-# TODO: In your custom app, change the output file names from case_
+# TODO: In your custom app, change the output file names from katherine_
 # to something that represents YOUR custom project.
-RAW_HTML_PATH: Path = RAW_PATH / "case_raw.html"
-PROCESSED_CSV_PATH: Path = PROCESSED_PATH / "case_processed.csv"
+RAW_HTML_PATH: Path = RAW_PATH / "katherine_raw.html"
+PROCESSED_CSV_PATH: Path = PROCESSED_PATH / "katherine_processed.csv"
